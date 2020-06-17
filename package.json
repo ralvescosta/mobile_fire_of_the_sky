@@ -27,10 +27,13 @@
     "@typescript-eslint/parser": "^2.27.0",
     "babel-jest": "^24.9.0",
     "eslint": "^6.5.1",
+    "git-commit-msg-linter": "^2.4.3",
+    "husky": "^4.2.5",
     "jest": "^24.9.0",
+    "lint-staged": "^10.2.11",
     "metro-react-native-babel-preset": "^0.58.0",
-    "react-test-renderer": "16.11.0",
     "prettier": "^2.0.4",
+    "react-test-renderer": "16.11.0",
     "typescript": "^3.8.3"
   }
 }
