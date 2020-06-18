@@ -8,9 +8,4 @@ module.exports = {
     '.+\\.(ts|tsx)$': 'ts-jest',
   },
   moduleFileExtensions: ['ts', 'tsx', 'js', 'jsx', 'json', 'node'],
-
-  // alteracao dos paths
-  moduleNameMapper: {
-    '~/(.*)': '<rootDir>/src/$1',
-  },
 };
