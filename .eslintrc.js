@@ -7,7 +7,7 @@ module.exports = {
   parser: '@typescript-eslint/parser',
   plugins: ['@typescript-eslint', 'jest'],
   rules: {
-    "import/export": "off",
-    "jest/no-export": "off"
+    'import/export': 'off',
+    'jest/no-export': 'off',
   },
 };
