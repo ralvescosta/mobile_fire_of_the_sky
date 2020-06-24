@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://www.facebook.com/fogodoceudivi" target="blank"> 
-    <img src="./assets/fdc.png" alt="FdC Logo" width="80px" height="80px" style="border-radius: 40px"/> 
+    <img src="./assets/fdc.png" alt="FdC Logo" width="80px" height="80px" style="border-radius: 40px;"/> 
    </a>
 </p>
 
